@@ -1,5 +1,9 @@
 # Release Notes
 
+## 0.2.1
+`2024-06-17`
+- Update README
+
 ## 0.2.0
 `2024-06-17`
 - Update color python docstring

@@ -1,16 +1,34 @@
-# night-owl-theme-lion README
+# Night Owl Theme Lion
+    
+     An eye catching dark deep blue theme for Visual Studio Code.
+     
+   A theme with use of wide range of colors for syntax highlighting, make code look more readable and beautiful while being easy on eyes to reduce strain at night.
 
-## Working with Markdown
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## PYTHON
+![Alt Text](/Preview/Python.png)
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## C / C++
+![Alt Text](/Preview/C.png)
 
-## For more information
+## PHP
+![Alt Text](/Preview/PHP.png)
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## HTML / CSS
+![Alt Text](/Preview/HTML_CSS.png)
 
-**Enjoy!**
+## MD
+![Alt Text](/Preview/MD.png)
+
+
+## Font used in above previews is Fira Code and Fira Code iScript both [available here](https://github.com/tonsky/FiraCode/releases)
+
+     Fira Code iScript :
+![Alt Text](/Preview/iscript.png)
+
+
+## Credits
+
+This project is a fork of the [Night Owl](https://github.com/pran-jal/Night-Owl-Theme-VS-Code) developed by [Pranjal Singh](https://github.com/pran-jal).
+
+You can find the original theme on [GitHub](https://github.com/pran-jal/Night-Owl-Theme-VS-Code) and the  [Marketplace do Visual Studio](https://marketplace.visualstudio.com/items?itemName=AncientLord.nightowl-theme).
