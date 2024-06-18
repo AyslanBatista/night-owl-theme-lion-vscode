@@ -612,7 +612,7 @@
 				"string.quoted.docstring.raw.multi.python",
 			],
 			"settings": {
-				"foreground": "#577997",
+				"foreground": "#074e81",
 				"fontStyle": "italic"
 			}
 	  	},
