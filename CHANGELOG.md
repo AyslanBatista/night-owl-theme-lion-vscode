@@ -1,5 +1,11 @@
 # Release Notes
 
+## 0.3.1
+`2024-06-19`
+- Update comment color
+- Update font to bold in keyword
+- Update Preview
+
 ## 0.2.1
 `2024-06-17`
 - Update README
