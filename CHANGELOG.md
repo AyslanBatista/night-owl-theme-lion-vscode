@@ -1,7 +1,7 @@
 # Release Notes
 
-## 0.4.1
-`2024-06-19`
+## 0.4.2
+`2024-06-27`
 - Update Heading 2 Markdown color
 - Update Heading 3 Markdown color
 - Add Markdown - Fenced Code Block
