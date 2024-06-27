@@ -443,6 +443,7 @@
 			],
 			"settings": {
 				"foreground": "#FFCB6B"
+				
 			}
 		},
 		{
@@ -930,7 +931,7 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-				"foreground": "#00ffff"
+				"foreground": "#78e2e6"
             }
         },
         {
@@ -941,7 +942,8 @@
             ],
             "settings": {
                 "fontStyle": "bold",
-				"foreground": "#89ddff"
+				"foreground": "#61bdf2"
+				
             }
         },
         {
@@ -1088,6 +1090,27 @@
 			"settings": {
 				"fontStyle": "bold",
 				"foreground": "#65737E"
+			}
+		},
+		{
+            "name": "Markdown - Fenced Code Block",
+            "scope": [
+                "markup.fenced_code.block.markdown",
+                "markup.inline.raw.string.markdown",
+                "variable.language.fenced.markdown"
+            ],
+            "settings": {
+				"foreground": "#f8ff97"
+            }
+        },
+		{
+			"name": "entity.name",
+			"scope": [
+				"entity.name",
+			],
+			"settings": {
+				"foreground": "#d6deeb"
+				
 			}
 		},
 	]

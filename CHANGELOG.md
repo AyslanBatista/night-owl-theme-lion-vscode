@@ -1,5 +1,12 @@
 # Release Notes
 
+## 0.4.1
+`2024-06-19`
+- Update Heading 2 Markdown color
+- Update Heading 3 Markdown color
+- Add Markdown - Fenced Code Block
+- Update entity.name color
+
 ## 0.3.1
 `2024-06-19`
 - Update comment color
