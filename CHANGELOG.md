@@ -1,5 +1,8 @@
 # Release Notes
 
+## 0.5.0
+- Update plain text markup color
+
 ## 0.4.2
 `2024-06-27`
 - Update Heading 2 Markdown color
