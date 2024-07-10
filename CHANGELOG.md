@@ -1,7 +1,7 @@
 # Release Notes
 
-## 0.5.0
-- Update plain text markup color
+## 0.5.1
+- Update plain text Markdown color
 
 ## 0.4.2
 `2024-06-27`
